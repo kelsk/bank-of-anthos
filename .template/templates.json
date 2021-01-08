@@ -1,0 +1,19 @@
+{
+    "metadata": {
+        "version": "1"
+    },
+    "templates": [
+        {
+            "path": "extras/custom-templates/loadgenerator-template",
+            "name": "Bank of Anthos load generator template",
+            "description": "An example template for the Bank of Anthos load generator service",
+            "languages": ["python"]
+        },
+        {
+            "path": "extras/custom-templates/userservice-template",
+            "name": "Bank of Anthos user service template",
+            "description": "An example template for the Bank of Anthos user service",
+            "languages": ["python"]
+        }
+    ]
+}
